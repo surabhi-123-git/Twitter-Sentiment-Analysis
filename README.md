@@ -1,2 +1,2 @@
-# Twitter-Sentiment-Analysis
-Twitter Sentiment Analysis through NLP
+# Sentiment-Analysis
+Movie Sentiment Analysis through NLP
